@@ -1,0 +1,22 @@
+﻿  OOTP_240704.cpp
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1692,51): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1743,31): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1745,31): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1747,31): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1749,31): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1751,31): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(2144,42): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(2151,31): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(2300,95): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(2364,68): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(2723,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(2745,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(2827,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(4567,99): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(4697,54): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(4698,53): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1753): warning C4715: 'Hitter::Get_hitter_rand_stat': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(2181): warning C4715: 'Team::Get_team_ops_rate': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1727): warning C4715: 'Hitter::Get_hitter_stat_corrected': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\ljcha\source\repos\OOTP_JULY_AI\OOTP_JULY_AI\OOTP_240704.cpp(1539): warning C4715: 'Option::Show_team_result': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  OOTP_JULY_AI.vcxproj -> C:\Users\ljcha\source\repos\OOTP_JULY_AI\x64\Debug\OOTP_JULY_AI.exe
